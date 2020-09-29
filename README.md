@@ -36,7 +36,4 @@
 
 <h1>Deployment</h1>✔️GCP
 
-<h1>Created and Deployed by</h1>
-  <b>Akshat Khanna & Unnati Mishra🙎</b>
-  <br><br>
 
